@@ -1,6 +1,5 @@
 - Programming NPC
-- Fresh College Student
-- 0 Idea whats going on, what can be, what will be
+- College Student
 
 
 <!---
